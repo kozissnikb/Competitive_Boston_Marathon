@@ -1,2 +1,2 @@
-# Competitive_Boston_Marathon
-A quick competitive overview what it takes to take part in the Boston Marathon and how good this field of participants really is.
+# Competitive Boston Marathon
+A quick competitive analysis and overview about how competitive it really is to get into the Boston Marathon and how good this field of participants really is.
